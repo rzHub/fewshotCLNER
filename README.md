@@ -16,9 +16,9 @@
 
 > 📖 This repository contains the source code for our 2025 paper on **Prompt Tuning for Few-Shot Continual Learning Named Entity Recognition**. The project integrates **prompt-based fine-tuning** and **knowledge distillation** to address the challenges of continual NER under few-shot settings.
 
-<div style="text-align:center;">
-  <img src=".\img.png" alt="图片描述" style="max-width:50%;">
-  <p style="text-align:center;">Figure 1: An illustration of the FS-CLNER task.</p>
+<div align="center">
+  <img src="./img.png" width="500"/>
+  <p><em>Figure 1: An illustration of the FS-CLNER task.</em></p>
 </div>
 
 🚧 **<mark>This project is still under active development</mark>**
